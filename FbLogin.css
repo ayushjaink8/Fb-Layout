@@ -1,0 +1,182 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+
+.container {
+    font-family: calibri;
+    height: 15%;
+    width: 100%;
+    background: #3b5998;
+    color: white;
+    border-bottom: 2px solid black;
+    
+       
+  }
+
+.facebook{
+      float:left;
+      margin-top:2%;
+      margin-left:2%;
+      font-size: 60px;
+    }
+.signin{
+        float: right;
+        padding-top: 2%;
+        color: black;
+        margin-right: 2%;
+ }
+.loginpadding{
+  padding-right: 10px;
+
+}
+.forgotbutton{
+  background-color: #3b5998;
+  color: #8AB4F8;
+  border:0px;
+}
+.Loginbutton{
+          background-color: #8AB4F8;
+          color: white;
+          border: black;
+          box-shadow: 1px;
+          padding: 10%;
+          margin-right:20px;
+}     
+  
+
+.page{
+  background-color: #EBF5FB;
+  height: 100%;
+}
+.pageleft{
+  float:left;
+  width:40%;
+  margin-left: 30px;
+}
+.connectwith{
+  font-family: calibri;
+  margin-top: 10%;
+  font-size: 30;
+}
+.aboutfb{
+  font-family: calibri;
+  font-size: 120%;
+  margin-top: 3%;
+  
+}
+.aboutfb div{
+  margin-bottom: 2%;
+}
+
+.image{
+  height: 10%;
+  width: 10%;
+  border-radius: 4px;
+  margin: 3%;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.pageright{
+  float:right;
+  width: 40%;
+  margin-right: 30px;
+
+}
+.pageright h1{
+  font-family: calibri;
+  font-size: 50;
+
+}
+.pageright h2{
+  font-family: Calibri;
+  font-weight: normal;
+}
+.name{
+  
+  border-color: ghostwhite;
+  height: 40;
+  margin-top: 3%;
+  margin-left: 1%;
+  width: 48%;
+  font-size: 100%;
+  border-radius: 10px 10px;
+  
+}
+.email{
+  border-color: ghostwhite;
+  margin-top: 2%;
+  height: 40;
+  width:98%;
+  font-size: 98%;
+  margin-left: 1%;
+  border-radius: 10px 10px;
+
+}
+.birthday{
+  margin-top: 4%;
+
+}
+.birthday h3{
+  font-size: 25;
+  font-family: calibri;
+}
+
+.date{
+  font-size: 150%;
+  margin-top: 2%;
+
+}
+.whybday{
+  position: relative;
+  margin-left: 5%;
+  color: blue;
+  margin-top: 2%;
+}
+.gender{
+  margin-top: 2%;
+  font-family: calibri;
+  font-size: 25;
+  
+}
+.gender span{
+  margin-left: 5%;
+}
+.info{
+  font-family: calibri;
+  color: grey;
+  margin-top: 5%;
+
+}
+.info font{
+  color: blue;
+}
+.create{
+  background-color: rgb(0, 170, 0);
+  color: white;
+  border: solid 1px;
+  font-size: 150%;
+  margin-top: 3%;
+  padding: 10px 30px;
+  border-radius: 5px;
+  border-color: gray;
+}
+.line{
+  margin-top: 3%;
+  margin-bottom: 3%;
+  color: lightgrey;
+}
+.footer{
+  font-family: calibri;
+}
